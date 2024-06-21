@@ -1,4 +1,4 @@
-👋 Hi, I’m @jianming0227
+👋 Hi, I’m Jian Ming
 
 👀 I’m interested in exploring the vast possibilities of spatial computing and extended reality (XR).
 
