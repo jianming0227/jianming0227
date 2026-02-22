@@ -2,9 +2,9 @@
 
 👀 I’m interested in exploring the vast possibilities of spatial computing and extended reality (XR).
 
-🌱 I’m currently enhancing my skills in 3D modeling, game development, cloud computing, and XR technology to stay ahead in this exciting field.
+🌱 I’m currently enhancing my skills in AI tools, XR Technologies to stay ahead in this exciting field.
 
-💞️ I’m looking to collaborate on innovative XR projects that push the boundaries of what is possible.
+💞️ I’m looking to collaborate on innovative XR & AI projects that push the boundaries of what is possible.
 
 📫 How to reach me: @jian._.mingg
 
