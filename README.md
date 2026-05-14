@@ -1,18 +1,23 @@
 👋 Hi, I’m Jian Ming
+Software Engineering & AI Student | XR & Spatial Computing Enthusiast
 
-👀 I’m interested in exploring the vast possibilities of spatial computing and extended reality (XR).
+I am a Computer Science student specializing in Software Engineering and Artificial Intelligence, with a proven track record of building intelligent, interactive solutions. I combine technical expertise in Java, Python, and Machine Learning with a collaborative mindset, excelling in group-driven software development and system design.
 
-🌱 I’m currently enhancing my skills in AI tools, XR Technologies to stay ahead in this exciting field.
+My passion lies at the intersection of AI and Extended Reality (XR). I am fascinated by the possibilities of spatial computing and am dedicated to creating a future where XR is as ubiquitous and accessible as smartphones are today.
 
-💞️ I’m looking to collaborate on innovative XR & AI projects that push the boundaries of what is possible.
+🚀 Technical Focus
+🌱 Current Learning: Enhancing skills in 3D Modeling, Game Development, and Cloud Computing to build the next generation of immersive XR experiences.
 
-📫 How to reach me: @jian._.mingg
+🧠 AI & Data: Experienced in transforming complex data into functional, user-centric AI applications and agentic workflows.
 
-⚡ Fun fact: I'm passionate about creating a future where extended reality is as ubiquitous as smartphones are today.
+🛠️ Engineering: Strong foundation in full-stack development, mobile applications, and collaborative system design.
 
-I am an XR enthusiast who finds spatial computing fascinating and fun to learn. The prospect of a future world where everyone can experience extended reality just like how we use our phones now is incredibly exciting. I am strengthening my skills in 3D modeling, game development, cloud computing, and XR to be well-prepared for these upcoming changes.
+💞️ Collaboration & Opportunities
+I’m looking to collaborate on innovative XR & AI projects that push the boundaries of spatial interaction.
 
-<!---
-jianming0227/jianming0227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Internship Seeking: I am currently seeking a 3-month internship (July 2026 – Sept 2026) in Software Engineering & Artificial Intelligence to apply my technical skills and contribute to impactful, real-world projects.
+
+📫 Let's Connect
+Instagram: @jian._.mingg
+
+⚡ Fun Fact: I'm on a mission to build a world where digital and physical realities blend seamlessly through spatial computing.
